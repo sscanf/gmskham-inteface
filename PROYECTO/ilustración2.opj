@@ -1,0 +1,25 @@
+(ExpressProject "Design1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ilustración2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (LastUsedLibraryBrowseDirectory "D:\Program Files\OrCAD\CAPTURE\LIBRARY")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\ilustración2.dsn")
+      (Path "Design Resources" ".\ilustración2.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\ilustración2.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 0 200 0 431"))
+      (Tab 0))))
